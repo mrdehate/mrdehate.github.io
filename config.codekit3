@@ -26,16 +26,6 @@
 		"oAP": "\/css\/freelancer.css.map",
 		"oF": 0
 		},
-	"\/css\/freelancer.min.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/css\/freelancer.min-min.css",
-		"oF": 0,
-		"oS": 0
-		},
 	"\/gulpfile.js": {
 		"ft": 64,
 		"ma": 0,
