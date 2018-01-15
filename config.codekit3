@@ -9,6 +9,13 @@
 	],
 "creatorBuild": "26148",
 "files": {
+	"\/CNAME": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/CNAME",
+		"oF": 0
+		},
 	"\/css\/freelancer.css": {
 		"aP": 1,
 		"bl": 0,
@@ -218,9 +225,9 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/README.html",
-		"oF": 0,
+		"oF": 1,
 		"oFM": 0,
 		"oS": 0,
 		"pHT": 0,
@@ -987,7 +994,7 @@
 	},
 "projectAttributes": {
 	"creationDate": 515906529,
-	"displayValue": "markd-onepage",
+	"displayValue": "mrdehate.github.io",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "meme-yesBaby"
 	},
