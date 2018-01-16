@@ -98,6 +98,26 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/img\/portfolio\/singletasker-ig.jpg": {
+		"ft": 16384,
+		"iS": 89654,
+		"oA": 0,
+		"oAP": "\/img\/portfolio\/singletasker-ig.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/portfolio\/singletasker.jpg": {
+		"ft": 16384,
+		"iS": 29407,
+		"oA": 0,
+		"oAP": "\/img\/portfolio\/singletasker.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/img\/portfolio\/submarine.png": {
 		"ft": 32768,
 		"iS": 24330,
@@ -107,6 +127,16 @@
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
+		"q": 100
+		},
+	"\/img\/portfolio\/tgux.jpg": {
+		"ft": 16384,
+		"iS": 60178,
+		"oA": 0,
+		"oAP": "\/img\/portfolio\/tgux.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"\/img\/profile-sample.png": {
@@ -140,6 +170,20 @@
 		"opt": 0,
 		"oT": 1,
 		"q": 100
+		},
+	"\/img\/sources\/singletasker.pxm": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/img\/sources\/singletasker.pxm",
+		"oF": 0
+		},
+	"\/img\/sources\/tgux.pxm": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/img\/sources\/tgux.pxm",
+		"oF": 0
 		},
 	"\/index.html": {
 		"cB": 0,
