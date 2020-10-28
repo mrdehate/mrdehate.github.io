@@ -12,8 +12,9 @@ title: Bean Brownies
 
 	  <h3>Bean Brownies</h3>
 	  <ul>
-	    {% for post in category['bean-brownies'] %}
-	      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-	    {% endfor %}
+	    {% for post in site.posts %}
+		{% if post.categories contains 'bean-brownies' %}
+	      	<li><a href="{{ post.url }}">{{ post.title }}</a></li>
+		  {% endif %}
+	  {% endfor %}
 	  </ul>
-
