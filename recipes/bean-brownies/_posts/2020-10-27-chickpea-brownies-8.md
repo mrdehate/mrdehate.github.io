@@ -49,5 +49,10 @@ Removed
 Baked for 35 minutes @ 350 degrees
 
 ## Review
+![My helpful screenshot](/assets/recipes/chickpea-8.jpg)
+QUITE GOOD! 
+* Probably most 'normal' tasting brownies so far (though I do miss the PB)
+* Great chocolate flavor
+* Espresso powder, maybe a little too much of that
 
 > Note
