@@ -49,6 +49,14 @@ Note: This is very close to the previous recipe, but notably is in a 9x13 pan.
 Baked for 34 minutes @ 350 degrees
 
 ## Review
+I was surprised at how short these ended up being in the 9x13 - however I don't mind it because the extra horizontal size makes up for it. The shorter brownie also makes it feel more like a normal brownie, and less like a cake. The kinda-off crumbly texture is hidden a little better this way.
+TBH these didn't taste _too_ different from the last recipe, which makes sense because the recipe is nearly the same. Which is also good, because the last brownies were excellent. These do have great flavor, that's nearly comparable with a standard brownie.
+
 Some notes:
+* More chips yes, but still really can't taste them. These Hershey chips just disappear.
+* Didn't get any peanut butter flavor at all.
+* Perhaps I'm just used to it at this point, but I don't get that odd beany flavor anymore. Probably just used to it.
 
 ## Next Steps
+* If sticking with chocolate, really should go back to the Toll House chips for the bigger size, and more of a dark chocolate burst. Might be a good time to try an alternate chip too.
+* Should try a scoop of regular peanut butter. Will have to cut back on chips though for sure. 
