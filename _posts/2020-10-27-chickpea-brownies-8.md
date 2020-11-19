@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title: "Chickpea Brownies, v8 - Reboot"
 date: 2020-10-27
 ---
