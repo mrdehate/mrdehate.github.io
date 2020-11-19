@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title: "Chickpea Brownies, v10 - The Dozen"
 date: 2020-11-10
 ---
