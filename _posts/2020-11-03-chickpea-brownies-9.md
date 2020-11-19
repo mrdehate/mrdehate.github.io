@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title: "Chickpea Brownies, v9 - Double Dose"
 date: 2020-11-03
 ---
