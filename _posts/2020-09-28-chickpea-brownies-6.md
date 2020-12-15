@@ -11,17 +11,17 @@ date: 2020-09-28
 ## Ingredients
 - Canned chickpeas, reduced sodium | 15oz can, drained
 - PB2 powder w/cocoa | 6 tbsp
-> Back to chocolate PB2. 
+> Back to chocolate PB2.
 - Silk Unsweetened cashew milk (mixed w/PB2) | 5 tbsp
 - Splenda granulated no-calorie sweetener | 6 tbsp
 - Table salt | 1/2 tsp
 - Vanilla extract | 1 tsp
-> Was running out of vanilla! Extra didn't add much either.
+> Updated: Down from 3tsp. Was running out of vanilla! Extra didn't add much either.
 - Baking powder | 1/2 tsp
 - Baking soda | 1/2 tsp
 - Espresso powder | 2/3 tbsp
 - Toll House semi-sweet morsels | 3 1/2 tbsp
-- Aquafaba | 3/4 tbsp
+- Aquafaba | 3/4 cup
 
 ## Nutrition
 - Total WW purple points: 22
