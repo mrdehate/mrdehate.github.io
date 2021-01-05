@@ -51,9 +51,12 @@ This is very close to the previous recipe!
 Baked for 42 minutes @ 350 degrees
 
 ## Review
+It's been a while since the last batch, so I've kinda lost the comparison here. Generally though they are fluffy and chocolatey, which is great. Still a little...beany-y though.
 
 Some notes:
-
+- Tasted literally no chips here. Small chips don't seem like the right answer.
+- Still liking the 9x13 pan. Seems like the right kind of fluffy, and the extra servings are rad.
+- Still got a weird taste. Not sure if I forgot what these tasted like, or it's the Stevia, or something else. All in all still enjoyable.
 
 ## Next Steps
 * Was just reading about aquafaba, and how you can use it to replace a whole egg. This is notably different from how I used it previously, whipped. Need to try this next time.
