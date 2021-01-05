@@ -48,7 +48,7 @@ This is very close to the previous recipe!
 5. Bake
 
 ## Baking Stats
-Baked for 34 minutes @ 350 degrees
+Baked for 42 minutes @ 350 degrees
 
 ## Review
 
