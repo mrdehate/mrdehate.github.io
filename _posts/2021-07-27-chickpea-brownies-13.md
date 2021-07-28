@@ -58,9 +58,11 @@ Some notes:
 * I think I've had a recipe copy/paste error that has persisted for many iterations of this recipe, stemming back to when I doubled the size into a 9x13 pan. 1/2 cup is still not a lot of sweetener. Well, good news at least, the monkfruit can be scaled to whatever I can afford, so that's something.
 * 35 minutes, maybe not enough for these. Pretty squishy.
 * Flavor is excellent though. Less of a weird aftertaste for sure.
+* I tasted a couple of chips TBH! Maybe the caramel is more of a standout flavor? Still though wasn't _super_ notable.
 
 ## Next Steps
-Generally I think we need to just tweak a few variables on this
+Generally I think we need to just tweak a few variables on this, but we're headed in the right direction. As expected I suppose, a lot of variables changed here, so it's not clear what's a keeper. i.e. do we need to go through the pain of peeling two cans of chickpeas or not :)
 * Cook longer
 * Jump up to maybe 3/4 cup of monkfruit
 * Probably should go back to using real eggs here; this likely impacted the texture
+* Kinda want to try those big dark chocolate chips again. 
