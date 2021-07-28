@@ -51,6 +51,6 @@ Baked for 40 minutes @ 350 degrees
 
 ## Review
 
-Some notes:
+(No notes recorded. Sorry. They probably were great.)
 
 ## Next Steps
