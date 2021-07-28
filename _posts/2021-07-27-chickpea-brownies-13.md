@@ -55,5 +55,12 @@ Baked for 35 minutes @ 350 degrees
 ## Review
 
 Some notes:
+* I think I've had a recipe copy/paste error that has persisted for many iterations of this recipe, stemming back to when I doubled the size into a 9x13 pan. 1/2 cup is still not a lot of sweetener. Well, good news at least, the monkfruit can be scaled to whatever I can afford, so that's something.
+* 35 minutes, maybe not enough for these. Pretty squishy.
+* Flavor is excellent though. Less of a weird aftertaste for sure.
 
 ## Next Steps
+Generally I think we need to just tweak a few variables on this
+* Cook longer
+* Jump up to maybe 3/4 cup of monkfruit
+* Probably should go back to using real eggs here; this likely impacted the texture
