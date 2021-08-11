@@ -60,6 +60,8 @@ Some notes:
 * Flavor is excellent though. Less of a weird aftertaste for sure.
 * I tasted a couple of chips TBH! Maybe the caramel is more of a standout flavor? Still though wasn't _super_ notable.
 
+Long-term tasting notes: Actually I liked these a bit better after they were in the fridge. The texture was better cold. Overall, I think still improving here.
+
 ## Next Steps
 Generally I think we need to just tweak a few variables on this, but we're headed in the right direction. As expected I suppose, a lot of variables changed here, so it's not clear what's a keeper. i.e. do we need to go through the pain of peeling two cans of chickpeas or not :)
 * Cook longer
