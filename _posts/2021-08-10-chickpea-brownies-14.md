@@ -47,10 +47,13 @@ date: 2021-08-10
 5. Bake
 
 ## Baking Stats
-Baked for 35 minutes @ 350 degrees
+Baked for 40 minutes @ 350 degrees
 
 ## Review
 
 Some notes:
+* The toffee bits completely disappeared. It was actually impressive, I was looking hard and could not locate a single one.
+* Improved texture over the last batch; maybe eggs, maybe longer baking time.
+* 
 
 ## Next Steps
