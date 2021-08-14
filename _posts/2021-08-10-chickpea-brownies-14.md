@@ -53,7 +53,15 @@ Baked for 40 minutes @ 350 degrees
 
 Some notes:
 * The toffee bits completely disappeared. It was actually impressive, I was looking hard and could not locate a single one.
-* Improved texture over the last batch; maybe eggs, maybe longer baking time.
-* 
+** Update: Okay, after eating more of these there are a couple bits visible. Definitely no crunch though.
+* Improved texture over the last batch; maybe eggs, maybe longer baking time?
+* Like the last batch, I like these much better from the fridge. 
+* I think I've found the limit to how much monkfruit that you can put in these. I do notice some weird taste in my mouth after finishing the brownie. Don't notice it mid-bite though. 
 
 ## Next Steps
+
+I kinda feel like I'm rapidly circling in on the peak of this recipe. It's really the same things that I could continue tweaking, which are:
+* Quantity and type of sugar substitute. I might dial back the monkfruit. I could sneak in a small amount of some other sugar substitute, but I dunno that might be cheating the WW points system even too much for me!
+* The search for chips continues. Not sure where to go from here. Those big dark chocolate chips, or maybe the chunks? I'm also curious about maybe those cookie dough bites? Do those hold up? Given how thin these brownies are, it might be a lost cause. 
+
+Otherwise, I think the next iteration of these will be trying other beans. Maybe chickpeas and black beans, or some kind of white bean? Hopefully something that doesn't require peeling lol :)
