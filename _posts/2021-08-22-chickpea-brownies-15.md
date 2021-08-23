@@ -51,7 +51,13 @@ Baked for 40 minutes @ 350 degrees
 
 ## Review
 
-Some notes:
+Initial/warm tasting notes:
+* Wow, really good.
+* I dunno I'm kinda broken for brownies at this point, but I really think you could pass this off as a real brownie. Like it would lose handily in a side-by-side, but if you brought these to a party I don't think you'd get kicked out.
+* The chips! You can both see and taste the chips! They are little bursts of chocolatey delight! It's amazing.
+* The beaniness does seem to be subdued here; also lacking _too much_ of an aftertaste. Liking both the changes with the beans and the slightly-less monkfruit.
+
+More notes:
 
 ## Next Steps
 
