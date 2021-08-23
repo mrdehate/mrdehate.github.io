@@ -21,7 +21,7 @@ date: 2021-08-10
 - Baking soda | 1 tsp
 - Vanilla extract | 1 tsp
 - [Cook's Pure Maple Extract](https://amzn.to/2LiRs8L) | 1 tsp
-- [Zensweet monkfruit sweetener](https://amzn.to/3f3s8j2) | 1/2 cup
+- [Zensweet monkfruit sweetener](https://amzn.to/3f3s8j2) | 3/4 cup
 - Espresso powder | 1 tbsp
 - Eggs | 4 whole
 - Applesauce, unsweetened | 1 cup
